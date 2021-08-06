@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">meetup</string>
+    <string name="meetup">meetup</string>
+    <string name="img">TODO</string>
+    <string name="my_interest">My Interest</string>
+    <string name="your_interest">Your Interest</string>
+    <string name="this_is_post_description">This is post Description</string>
+</resources>

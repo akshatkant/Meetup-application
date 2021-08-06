@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/first">
+
+        <item android:id="@+id/menuhome"
+            android:title="HOME"
+            android:icon="@drawable/ic_home"/>
+
+        <item android:id="@+id/profile"
+            android:title="PROFILE"
+            android:icon="@drawable/ic_profile"/>
+
+        <item android:id="@+id/friend"
+            android:title="FRIENDS"
+            android:icon="@drawable/ic_friends"/>
+
+        <item android:id="@+id/findfriend"
+            android:title="FIND FRIEND"
+            android:icon="@drawable/ic_findfriend"/>
+
+        <item android:id="@+id/chat"
+            android:title="CHAT"
+            android:icon="@drawable/ic_chat"/>
+
+        <item android:id="@+id/logout"
+            android:title="LOGOUT"
+            android:icon="@drawable/ic_logout"/>
+
+    </group>
+
+
+</menu>
